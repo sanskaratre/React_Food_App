@@ -11,7 +11,7 @@ const Header = () => {
                 <HeaderCartIcon />
             </header>
             <div className={classes['main-image']}>
-            <img  src={mealsImage} alt="Food-bg"></img>
+            <img  src={mealsImage} alt="Food_app_background"></img>
             </div>
             
        </Fragment> 
